@@ -1,20 +1,20 @@
 # Project Name
 
 ## Problem Statement
-Explain clearly what problem your project is solving.
-
+Build a deepfake and misinformation detection platform
 ## Project Description
-Describe your solution, how it works, and what makes it useful.
-
+An AI integrated platform to detect deepfake images and misinformational text
 ---
 
 ## Google AI Usage
 ### Tools / Models Used
+google AI studio
+gemini
 - 
 
 ### How Google AI Was Used
-Explain clearly how AI is integrated into your project.
-
+gemini used for meta-prompting
+google ai studio used for building the model
 ---
 
 ## Proof of Google AI Usage
